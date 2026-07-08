@@ -1,6 +1,6 @@
 # Retail_store_inventory_management-Excel
 
-# Retail Store Inventory Management Dashboard
+
 
 ## Project Overview
 
