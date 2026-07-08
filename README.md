@@ -145,10 +145,5 @@ Example:
 
 ---
 
-## Author
-
-**Radhika Shelar**
-
-M.Sc. Computer Science
 
 Data Analytics Capstone Project
