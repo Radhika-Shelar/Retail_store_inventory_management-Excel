@@ -134,16 +134,3 @@ Retail Store Inventory Management/
 ```
 
 ---
-
-## Dashboard Preview
-
-(Add a screenshot of your Excel dashboard here.)
-
-Example:
-
-![Dashboard](Dashboard_Screenshot.png)
-
----
-
-
-Data Analytics Capstone Project
